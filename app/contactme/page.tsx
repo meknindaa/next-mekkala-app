@@ -17,7 +17,7 @@ export default function ContactMePage() {
         <h2 className="text-4xl md:text-5xl font-extrabold tracking-tight">
           Contact <span className="text-[#FF5C00]">Me</span>
         </h2>
-        <p className="mt-4 text-xl text-neutral-300">Let’s get in touch!</p>
+        <p className="mt-4 text-xl text-neutral-300">Let&apos;s get in touch!</p>
 
         {/* Form */}
         <form
